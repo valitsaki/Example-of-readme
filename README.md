@@ -1,4 +1,6 @@
 # Example-of-readme
-##second
-*text*
+## second row
+### third row
+*text in italic*
 **bold text**
+
